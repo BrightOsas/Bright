@@ -3,7 +3,7 @@
 I specialize in Analytic Engineering, bringing expertise in designing end-to-end solutions that optimize performance, ensure reliability, and enhance security across analytics and cloud environments. My passion lies in adopting cutting-edge technologies to drive efficiency and innovation.
 
 ## Skill set
-
+* <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=black'/></a>
 
 ### Certifications
 * [AWS Cloud Essential Knownledge Badge](https://drive.google.com/file/d/1IpTDc1jVHSZR-aL4iuYvw7C93dWkkqxa/view?usp=drive_link)
